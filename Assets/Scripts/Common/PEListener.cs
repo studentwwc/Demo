@@ -1,0 +1,47 @@
+﻿using System;
+using UnityEngine;
+using UnityEngine.EventSystems;
+using Object = System.Object;
+
+namespace Common
+{
+    public class PEListener:MonoBehaviour,IPointerClickHandler,IPointerDownHandler,IPointerUpHandler,IDragHandler
+    {
+        public Action<PointerEventData> onClickDown;
+        public Action<PointerEventData> onClickUp;
+        public Action<PointerEventData> onDrag;
+        public Action<Object> onClick;
+        public void OnPointerDown(PointerEventData eventData)
+        {
+            if (onClickDown != null)
+            {
+                onClickDown(eventData);
+            }
+        }
+
+        public void OnPointerUp(PointerEventData eventData)
+        {
+            if (onClickUp != null)
+            {
+                onClickUp(eventData);
+            }
+        }
+
+        public void OnDrag(PointerEventData eventData)
+        {
+            if (onDrag!=null)
+            {
+                onDrag(eventData);
+            }
+        }
+
+        public Object args;
+        public void OnPointerClick(PointerEventData eventData)
+        {
+            if (onClick!=null)
+            {
+                onClick(args);
+            }
+        }
+    }
+}

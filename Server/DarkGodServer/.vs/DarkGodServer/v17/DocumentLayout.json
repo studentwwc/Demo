@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\mystudy\\unityProgram\\DarkGod\\Server\\DarkGodServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{131C7208-88C8-444E-BB34-E8667BD95AE7}|Server\\Server.csproj|d:\\mystudy\\unityprogram\\darkgod\\server\\darkgodserver\\server\\04db\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{131C7208-88C8-444E-BB34-E8667BD95AE7}|Server\\Server.csproj|solutionrelative:server\\04db\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131C7208-88C8-444E-BB34-E8667BD95AE7}|Server\\Server.csproj|D:\\mystudy\\unityProgram\\DarkGod\\Server\\DarkGodServer\\server\\04db\\dbutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{131C7208-88C8-444E-BB34-E8667BD95AE7}|Server\\Server.csproj|solutionrelative:server\\04db\\dbutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131C7208-88C8-444E-BB34-E8667BD95AE7}|Server\\Server.csproj|D:\\mystudy\\unityProgram\\DarkGod\\Server\\DarkGodServer\\server\\02system\\buysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{131C7208-88C8-444E-BB34-E8667BD95AE7}|Server\\Server.csproj|solutionrelative:server\\02system\\buysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131C7208-88C8-444E-BB34-E8667BD95AE7}|Server\\Server.csproj|D:\\mystudy\\unityProgram\\DarkGod\\Server\\DarkGodServer\\server\\01service\\01net\\netservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{131C7208-88C8-444E-BB34-E8667BD95AE7}|Server\\Server.csproj|solutionrelative:server\\01service\\01net\\netservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131C7208-88C8-444E-BB34-E8667BD95AE7}|Server\\Server.csproj|D:\\mystudy\\unityProgram\\DarkGod\\Server\\DarkGodServer\\server\\02system\\tasksystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{131C7208-88C8-444E-BB34-E8667BD95AE7}|Server\\Server.csproj|solutionrelative:server\\02system\\tasksystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DBUtility.cs",
+              "DocumentMoniker": "D:\\mystudy\\unityProgram\\DarkGod\\Server\\DarkGodServer\\Server\\04DB\\DBUtility.cs",
+              "RelativeDocumentMoniker": "Server\\04DB\\DBUtility.cs",
+              "ToolTip": "D:\\mystudy\\unityProgram\\DarkGod\\Server\\DarkGodServer\\Server\\04DB\\DBUtility.cs",
+              "RelativeToolTip": "Server\\04DB\\DBUtility.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T16:54:07.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NetService.cs",
+              "DocumentMoniker": "D:\\mystudy\\unityProgram\\DarkGod\\Server\\DarkGodServer\\Server\\01Service\\01Net\\NetService.cs",
+              "RelativeDocumentMoniker": "Server\\01Service\\01Net\\NetService.cs",
+              "ToolTip": "D:\\mystudy\\unityProgram\\DarkGod\\Server\\DarkGodServer\\Server\\01Service\\01Net\\NetService.cs",
+              "RelativeToolTip": "Server\\01Service\\01Net\\NetService.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAEwC8AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T16:40:32.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskSystem.cs",
+              "DocumentMoniker": "D:\\mystudy\\unityProgram\\DarkGod\\Server\\DarkGodServer\\Server\\02System\\TaskSystem.cs",
+              "RelativeDocumentMoniker": "Server\\02System\\TaskSystem.cs",
+              "ToolTip": "D:\\mystudy\\unityProgram\\DarkGod\\Server\\DarkGodServer\\Server\\02System\\TaskSystem.cs",
+              "RelativeToolTip": "Server\\02System\\TaskSystem.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAswJMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T16:12:52.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BuySystem.cs",
+              "DocumentMoniker": "D:\\mystudy\\unityProgram\\DarkGod\\Server\\DarkGodServer\\Server\\02System\\BuySystem.cs",
+              "RelativeDocumentMoniker": "Server\\02System\\BuySystem.cs",
+              "ToolTip": "D:\\mystudy\\unityProgram\\DarkGod\\Server\\DarkGodServer\\Server\\02System\\BuySystem.cs",
+              "RelativeToolTip": "Server\\02System\\BuySystem.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAnwK8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T14:33:40.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBManager.cs",
+              "DocumentMoniker": "D:\\mystudy\\unityProgram\\DarkGod\\Server\\DarkGodServer\\Server\\04DB\\DBManager.cs",
+              "RelativeDocumentMoniker": "Server\\04DB\\DBManager.cs",
+              "ToolTip": "D:\\mystudy\\unityProgram\\DarkGod\\Server\\DarkGodServer\\Server\\04DB\\DBManager.cs",
+              "RelativeToolTip": "Server\\04DB\\DBManager.cs",
+              "ViewState": "AQIAAOgBAAAAAAAAAAAswE4BAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T15:22:19.271Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

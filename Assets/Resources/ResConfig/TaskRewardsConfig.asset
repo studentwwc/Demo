@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 8
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb2ce15121be1d0458d479c550336785, type: 3}
+  m_Name: TaskRewardsConfig
+  m_EditorClassIdentifier: 
+  TaskReward:
+  - ID: 1
+    taskName: "\u667A\u8005\u70B9\u62E8"
+    count: 1
+    exp: 1130
+    coin: 1280
+  - ID: 2
+    taskName: "\u526F\u672C\u6218\u6597"
+    count: 3
+    exp: 1200
+    coin: 1307
+  - ID: 3
+    taskName: "\u5F3A\u5316\u5347\u7EA7"
+    count: 5
+    exp: 1250
+    coin: 1312
+  - ID: 4
+    taskName: "\u8D2D\u4E70\u4F53\u529B"
+    count: 2
+    exp: 1340
+    coin: 1425
+  - ID: 5
+    taskName: "\u94F8\u9020\u91D1\u5E01"
+    count: 5
+    exp: 1420
+    coin: 1573
+  - ID: 6
+    taskName: "\u80FD\u8A00\u5584\u8FA9"
+    count: 3
+    exp: 1560
+    coin: 1696

@@ -1,0 +1,145 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 8
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2ae144c5f47d2145af456398f42b34e, type: 3}
+  m_Name: SkillsConfig
+  m_EditorClassIdentifier: 
+  Skill:
+  - ID: 101
+    skillName: "\u7A81\u88AD"
+    skillTime: 900
+    dmgType: 1
+    aniAction: 1
+    cdTime: 6000
+    isCollide: 0
+    isBreak: 0
+    isCombo: 0
+    fx: dagger_skill1
+    skillMoveLst: 1011
+    skillActionLst: 1011|1011
+    skillDamageLst: 26|36
+  - ID: 102
+    skillName: "\u7A7F\u523A"
+    skillTime: 1400
+    dmgType: 2
+    aniAction: 2
+    cdTime: 8000
+    isCollide: 0
+    isBreak: 0
+    isCombo: 0
+    fx: dagger_skill2
+    skillMoveLst: 1021|1022
+    skillActionLst: 1021|1021|1021
+    skillDamageLst: 14|15|16
+  - ID: 103
+    skillName: "\u65CB\u98CE"
+    skillTime: 1600
+    dmgType: 2
+    aniAction: 3
+    cdTime: 10000
+    isCollide: 0
+    isBreak: 0
+    isCombo: 0
+    fx: dagger_skill3
+    skillMoveLst: 1031|1032
+    skillActionLst: 1031|1031|1031|1031
+    skillDamageLst: 17|18|19|20
+  - ID: 111
+    skillName: "\u666E\u653B1"
+    skillTime: 660
+    dmgType: 1
+    aniAction: 11
+    cdTime: 0
+    isCollide: 1
+    isBreak: 1
+    isCombo: 1
+    fx: dagger_atk1
+    skillMoveLst: 1111
+    skillActionLst: 1111
+    skillDamageLst: 18
+  - ID: 112
+    skillName: "\u666E\u653B2"
+    skillTime: 860
+    dmgType: 1
+    aniAction: 12
+    cdTime: 0
+    isCollide: 1
+    isBreak: 1
+    isCombo: 1
+    fx: dagger_atk2
+    skillMoveLst: 1111
+    skillActionLst: 1121
+    skillDamageLst: 21
+  - ID: 113
+    skillName: "\u666E\u653B3"
+    skillTime: 730
+    dmgType: 1
+    aniAction: 13
+    cdTime: 0
+    isCollide: 1
+    isBreak: 1
+    isCombo: 1
+    fx: dagger_atk3
+    skillMoveLst: 1111
+    skillActionLst: 1131
+    skillDamageLst: 23
+  - ID: 114
+    skillName: "\u666E\u653B4"
+    skillTime: 860
+    dmgType: 1
+    aniAction: 14
+    cdTime: 0
+    isCollide: 1
+    isBreak: 1
+    isCombo: 1
+    fx: dagger_atk4
+    skillMoveLst: 1111
+    skillActionLst: 1141
+    skillDamageLst: 27
+  - ID: 115
+    skillName: "\u666E\u653B5"
+    skillTime: 800
+    dmgType: 1
+    aniAction: 15
+    cdTime: 0
+    isCollide: 1
+    isBreak: 1
+    isCombo: 1
+    fx: dagger_atk5
+    skillMoveLst: 1111
+    skillActionLst: 1151
+    skillDamageLst: 34
+  - ID: 201
+    skillName: "\u666E\u901A\u602A\u7269\u666E\u653B1"
+    skillTime: 800
+    dmgType: 1
+    aniAction: 11
+    cdTime: 0
+    isCollide: 1
+    isBreak: 1
+    isCombo: 0
+    fx: 
+    skillMoveLst: 
+    skillActionLst: 2111
+    skillDamageLst: 26
+  - ID: 301
+    skillName: "\u7CBE\u82F1\u602A\u7269\u666E\u653B1"
+    skillTime: 800
+    dmgType: 2
+    aniAction: 11
+    cdTime: 0
+    isCollide: 1
+    isBreak: 0
+    isCombo: 0
+    fx: 
+    skillMoveLst: 
+    skillActionLst: 2211
+    skillDamageLst: 65

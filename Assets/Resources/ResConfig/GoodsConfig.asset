@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 8
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce4880bf99fc7f24494cb3e609bfcc74, type: 3}
+  m_Name: GoodsConfig
+  m_EditorClassIdentifier: 
+  Equip:
+  - ID: 1001
+    instanceId: 0
+    Name: "\u5723\u8005\u4E4B\u5251"
+    EquipType: 1
+    EquipAdaptType: 1
+    Prop: 100|0|0|0|0|5
+    Introduce: "\u5723\u8005\u6301\u5251\u6D74\u8840\u5C60\u9B54"
+    AssetIcon: ResImages/Equip/00529
+    AssetPrefab: 
+  - ID: 1002
+    instanceId: 0
+    Name: "\u5723\u8005\u4E4B\u8863"
+    EquipType: 2
+    EquipAdaptType: 0
+    Prop: 0|0|1000|0|0|0
+    Introduce: "\u5723\u8005\u6301\u5251\u6D74\u8840\u5C60\u9B54"
+    AssetIcon: ResImages/Equip/00931
+    AssetPrefab: 
+  - ID: 1003
+    instanceId: 0
+    Name: "\u5723\u8005\u957F\u88E4"
+    EquipType: 3
+    EquipAdaptType: 0
+    Prop: 0|0|0|0|100|0
+    Introduce: "\u5723\u8005\u6301\u5251\u6D74\u8840\u5C60\u9B54"
+    AssetIcon: ResImages/Equip/00930
+    AssetPrefab: 
+  - ID: 1004
+    instanceId: 0
+    Name: "\u6D77\u795E\u4E4B\u6CEA"
+    EquipType: 4
+    EquipAdaptType: 0
+    Prop: 0|0|0|5|0|0
+    Introduce: "\u5723\u8005\u6301\u5251\u6D74\u8840\u5C60\u9B54"
+    AssetIcon: ResImages/Equip/01181
+    AssetPrefab: 
+  - ID: 1005
+    instanceId: 0
+    Name: "\u6CD5\u8001\u7684\u8170\u5E26"
+    EquipType: 5
+    EquipAdaptType: 0
+    Prop: 0|0|400|0|0|0
+    Introduce: "\u5723\u8005\u6301\u5251\u6D74\u8840\u5C60\u9B54"
+    AssetIcon: ResImages/Equip/00365
+    AssetPrefab: 
+  - ID: 1006
+    instanceId: 0
+    Name: "\u6781\u901F\u4E4B\u9774"
+    EquipType: 6
+    EquipAdaptType: 0
+    Prop: 0|0|0|5|0|0
+    Introduce: "\u5723\u8005\u6301\u5251\u6D74\u8840\u5C60\u9B54"
+    AssetIcon: ResImages/Equip/00119
+    AssetPrefab: 
+  - ID: 1007
+    instanceId: 0
+    Name: "\u9A91\u58EB\u4E4B\u5F13"
+    EquipType: 1
+    EquipAdaptType: 2
+    Prop: 0|200|0|0|0|0
+    Introduce: "\u5723\u8005\u6301\u5251\u6D74\u8840\u5C60\u9B54"
+    AssetIcon: ResImages/Equip/00527
+    AssetPrefab: 
+  Prop:
+  - ID: 2001
+    instanceId: 0
+    Name: "\u6210\u957F\u4E4B\u68AF"
+    Type: 1
+    Count: 1000
+  - ID: 2002
+    instanceId: 0
+    Name: "\u529B\u91CF\u4E4B\u6E90"
+    Type: 2
+    Count: 10
