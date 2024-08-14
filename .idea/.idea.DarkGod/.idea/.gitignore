@@ -15,4 +15,8 @@
 /dataSources/
 /dataSources.local.xml
 /Library/
+/Library/
+/Library/ArtifactDB
+/Library/PackageCache/
+
 
