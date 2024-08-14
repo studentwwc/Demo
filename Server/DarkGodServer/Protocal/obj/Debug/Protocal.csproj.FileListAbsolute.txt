@@ -1,0 +1,13 @@
+D:\mystudy\unityProgram\DarkGod\Server\DarkGodServer\Protocal\bin\Debug\Protocal.dll
+D:\mystudy\unityProgram\DarkGod\Server\DarkGodServer\Protocal\bin\Debug\Protocal.pdb
+D:\mystudy\unityProgram\DarkGod\Server\DarkGodServer\Protocal\bin\Debug\PESocket.dll
+D:\mystudy\unityProgram\DarkGod\Server\DarkGodServer\Protocal\bin\Debug\PESocket.pdb
+D:\mystudy\unityProgram\DarkGod\Server\DarkGodServer\Protocal\obj\Debug\Protocal.csproj.AssemblyReference.cache
+D:\mystudy\unityProgram\DarkGod\Server\DarkGodServer\Protocal\obj\Debug\Protocal.csproj.CoreCompileInputs.cache
+D:\mystudy\unityProgram\DarkGod\Server\DarkGodServer\Protocal\obj\Debug\Protocal.dll
+D:\mystudy\unityProgram\DarkGod\Server\DarkGodServer\Protocal\obj\Debug\Protocal.pdb
+D:\downLoad\unityResource\ProjectResources\DarkGod\ResDarkGod\PESocketDll\Protocal.dll
+D:\downLoad\unityResource\ProjectResources\DarkGod\ResDarkGod\PESocketDll\Protocal.pdb
+D:\mystudy\unityProgram\DarkGod\Assets\Plugins\Protocal.dll
+D:\mystudy\unityProgram\DarkGod\Assets\Plugins\Protocal.pdb
+D:\mystudy\unityProgram\DarkGod\Server\DarkGodServer\Protocal\obj\Debug\Protocal.csproj.Up2Date
